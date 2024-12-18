@@ -34,7 +34,7 @@ Alternatively, to run the project locally:
    ```
 
 2. Navigate to the project directory:
-  ```bash Double click on the html file ```
+  ```Double click on the html file ```
 
    
 ## **Contact Me**
