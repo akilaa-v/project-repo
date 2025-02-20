@@ -191,6 +191,14 @@ section p {
   list-style: none;
 }
 
+.skill-category {
+  margin: 20px 0;
+}
+
+.skill-category h3 {
+  display: inline-block;
+}
+
 /* Contact */
 .contact p {
   margin-bottom: 1rem;
