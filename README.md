@@ -34,22 +34,9 @@ Alternatively, to run the project locally:
    ```
 
 2. Navigate to the project directory:
-   ```bash
-   cd my-portfolio
-   ```
+  ```Double click on the html file ```
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-5. Open your browser and navigate to `http://localhost:5173`.
-
+   
 ## **Contact Me**
 Feel free to reach out for collaborations or inquiries:
 
